@@ -1,0 +1,29 @@
+{
+  "name": "sistem_maklumat_pelajar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fikrisahruddin07/Maklumat-Pelajar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fikrisahruddin07/Maklumat-Pelajar/issues"
+  },
+  "homepage": "https://github.com/fikrisahruddin07/Maklumat-Pelajar#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
+  }
+}
